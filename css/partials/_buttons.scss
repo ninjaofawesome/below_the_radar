@@ -1,0 +1,13 @@
+.band-box{
+  border-radius: 0;
+  border: 5px double $charcoal;
+  width: 500px;
+  margin: 5% auto;
+}
+
+input[type="text"], textarea {
+  background-color : $white;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  text-align: center;
+}

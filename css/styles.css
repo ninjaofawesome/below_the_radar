@@ -1,0 +1,44 @@
+p {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 400;
+  color: #141414; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 400; }
+
+.centered {
+  text-align: center; }
+
+.title {
+  font-size: 5em;
+  margin-top: 5%;
+  color: #373a36;
+  font-weight: 500; }
+
+.subtitle {
+  font-size: 3em;
+  font-weight: 300; }
+
+.band-box {
+  border-radius: 0;
+  border: 5px double #373a36;
+  width: 500px;
+  margin: 5% auto; }
+
+input[type="text"], textarea {
+  background-color: #fcfdef;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  text-align: center; }
+
+body {
+  background-color: #fcfdef;
+  font-size: 16px;
+  font-weight: 300;
+  color: #141414; }

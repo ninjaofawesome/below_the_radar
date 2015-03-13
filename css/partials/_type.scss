@@ -1,0 +1,32 @@
+p {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 400;
+  color: $black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 400;
+}
+
+.centered {
+  text-align: center;
+}
+
+.title {
+  font-size: 5em;
+  margin-top: 5%;
+  color: $charcoal;
+  font-weight: 500;
+}
+
+.subtitle {
+  font-size: 3em;
+  font-weight: 300;
+}
+
